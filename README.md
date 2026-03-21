@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-
+    
+<!-- Banner Image — Replace with your own Canva banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A5F&height=200&section=header&text=Shivam%20Kumar%20Gupta&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Java%20Backend%20Engineer%20%7C%20Fintech%20%7C%20Capital%20Markets&descAlignY=55&descSize=18)
+    
 <!-- Typing Animation Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam+Kumar+Gupta;Java+%7C+Spring+Boot+%7C+Microservices;Backend+Engineer+%7C+Fintech+%7C+Capital+Markets;Building+Scalable+%26+Secure+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -27,6 +30,12 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/GitHub-shivamgupta506-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamgupta506)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916261346893)
 [![Gmail](https://img.shields.io/badge/Gmail-shivam@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamgupta.tech.dev@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/guptashivamexl)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shivamgupta506&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/shivamgupta506?style=for-the-badge&color=3B82F6)
 
 </div>
 
@@ -55,6 +64,7 @@ public class Shivam extends SoftwareEngineer {
     };
 
     String passion     = "Building high-performance, secure & scalable backend systems";
+    boolean  openToWork = true;
 }
 ```
 
@@ -196,6 +206,18 @@ Orchestrator           →  Topology visualization & auto failover
 
 ---
 
+## 💬 Dev Quote
+
+<div align="center">
+
+> *"Good backend development is not about choosing the best solution —*
+> *it's about choosing the right solution for the current context."*
+> — Shivam Kumar Gupta
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -204,11 +226,22 @@ Orchestrator           →  Topology visualization & auto failover
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916261346893)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamgupta.tech.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamgupta506)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/guptashivamexl)
+
+<br/>
+
+**Open to Senior SDE / Java Backend roles in Fintech & Capital Markets** 🚀
+
+</div>
 
 ---
 
+<!-- Footer Wave -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:3B82F6&height=120&section=footer)
+
+<!--
 ![Profile Views](https://komarev.com/ghpvc/?username=shivamgupta506&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"Good backend development is not about choosing the best solution — it's about choosing the right solution for the current context."*
+-->
 
-</div>
