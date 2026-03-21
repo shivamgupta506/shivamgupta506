@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam%20Kumar%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-kumar-gupta-5a7890247)
 [![GitHub](https://img.shields.io/badge/GitHub-shivamgupta506-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamgupta506)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916261346893)
-[![Gmail](https://img.shields.io/badge/Gmail-shivam@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamgupta.tech.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamgupta.tech.dev@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/guptashivamexl)
 
 <br/>
