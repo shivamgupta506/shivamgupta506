@@ -187,6 +187,7 @@ Orchestrator           →  Topology visualization & auto failover
 
 | Certificate | Issuer | Year |
 |------------|--------|------|
+| Weekly Java Challenge | Upstop | 2026 |
 | Java Spring Boot | TestDome | 2025 |
 | Software Engineer | HackerRank | 2025 |
 | JavaScript (Basic) | HackerRank | 2025 |
