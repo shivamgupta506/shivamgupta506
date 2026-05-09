@@ -118,7 +118,7 @@ public class Shivam extends SoftwareEngineer {
 
 ## 🚀 Featured Projects
 
-### 🔵 [Spring Boot SSE — Real-Time Server-Sent Events]([https://github.com/shivamgupta506/spring-boot-sse-demo](https://github.com/shivamgupta506/Server-Sent-Events))
+### 🔵 [Spring Boot SSE — Real-Time Server-Sent Events](https://github.com/shivamgupta506/Server-Sent-Events)
 > Production-grade SSE implementation with live streaming dashboard
 
 ```
