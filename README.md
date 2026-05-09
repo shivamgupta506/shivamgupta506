@@ -2,21 +2,10 @@
 
 
 **shivamgupta506/shivamgupta506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 <div align="center">
     
-<!-- Banner Image — Replace with your own Canva banner -->
+<!-- Banner Image -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A5F&height=200&section=header&text=Shivam%20Kumar%20Gupta&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Java%20Backend%20Engineer%20%7C%20Fintech%20%7C%20Capital%20Markets&descAlignY=55&descSize=18)
     
 <!-- Typing Animation Banner -->
@@ -53,6 +42,7 @@ public class Shivam extends SoftwareEngineer {
     String location    = "Indore, Madhya Pradesh, India 🇮🇳";
 
     String[] currently = {
+        "Building real-time SSE streaming systems with Spring Boot",
         "Contributing to a capital market trading platform",
         "Monitoring systems using Elastic Stack (ELK)",
         "Learning MySQL HA with ProxySQL & Orchestrator"
@@ -60,11 +50,12 @@ public class Shivam extends SoftwareEngineer {
 
     String[] expertise = {
         "Java", "Spring Boot", "Microservices",
-        "REST APIs", "Spring Security", "MySQL"
+        "REST APIs", "Spring Security", "MySQL",
+        "SSE", "WebSocket", "Real-time Systems"
     };
 
     String passion     = "Building high-performance, secure & scalable backend systems";
-    boolean  openToWork = true;
+    boolean openToWork = true;
 }
 ```
 
@@ -98,6 +89,11 @@ public class Shivam extends SoftwareEngineer {
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge&logo=oauth&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 
+### ⚡ Real-Time & Streaming
+![SSE](https://img.shields.io/badge/Server--Sent%20Events-0a66c2?style=for-the-badge&logo=html5&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka_Streams-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
 ### 🧰 Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -122,6 +118,24 @@ public class Shivam extends SoftwareEngineer {
 
 ## 🚀 Featured Projects
 
+### 🔵 [Spring Boot SSE — Real-Time Server-Sent Events](https://github.com/shivamgupta506/spring-boot-sse-demo)
+> Production-grade SSE implementation with live streaming dashboard
+
+```
+Multi-client registry  →  ConcurrentHashMap<clientId, SseEmitter>
+Topic-based pub/sub    →  stocks | logs | notifications channels
+Stock market simulation →  5 symbols, real-time ticks every 1.5s
+Heartbeat keepalive    →  15s ping prevents proxy/firewall timeout
+Auto-reconnect         →  Exponential backoff (1s → 2s → 4s → 30s max)
+Live dashboard UI      →  Zero-dependency terminal-aesthetic frontend
+```
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![SSE](https://img.shields.io/badge/Server--Sent%20Events-0a66c2?style=flat&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+
+---
+
 ### 🔴 [MySQL High Availability with ProxySQL & Orchestrator](https://github.com/shivamgupta506/mysql-ha-proxysql-orchestrator)
 > Production-inspired MySQL HA setup — fully Dockerized
 
@@ -141,10 +155,10 @@ Orchestrator           →  Topology visualization & auto failover
 > Secure multi-tenant wallet platform with OAuth2 authentication
 
 ```
-10,000+ users    →  OAuth2 multi-tenant auth (<1% failure rate)
-99.9% accuracy   →  Transaction validation & integrity
+10,000+ users     →  OAuth2 multi-tenant auth (<1% failure rate)
+99.9% accuracy    →  Transaction validation & integrity
 60% less downtime →  Resilience4j circuit breaker patterns
-35% faster APIs  →  Optimized SQL queries & DB load reduction
+35% faster APIs   →  Optimized SQL queries & DB load reduction
 ```
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
@@ -239,10 +253,3 @@ Orchestrator           →  Topology visualization & auto failover
 
 <!-- Footer Wave -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:3B82F6&height=120&section=footer)
-
-<!--
-![Profile Views](https://komarev.com/ghpvc/?username=shivamgupta506&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
-
-*"Good backend development is not about choosing the best solution — it's about choosing the right solution for the current context."*
--->
-
