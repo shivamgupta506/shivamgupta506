@@ -248,7 +248,7 @@ Orchestrator           →  Topology visualization & auto failover
 
 <br/>
 
-**Open to Senior SDE / Java Backend roles in Fintech & Capital Markets** 🚀
+**Open to SDE / Java Backend roles in Fintech & Capital Markets** 🚀
 
 </div>
 
